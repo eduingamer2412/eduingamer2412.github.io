@@ -1,0 +1,22 @@
+body{
+background-image: url(kratos.jpeg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+}
+
+ul {
+    width: 350px;
+    list-style: none;
+    padding: 10px ;
+    margin-left: 40%;
+    background-color: chartreuse;
+
+}
+li {
+    display: inline-block;
+    margin-right: 10px;
+    color: brown;
+    font-size: 25px;
+}
